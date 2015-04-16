@@ -1,3 +1,5 @@
+Go lang dict for vim
+---
 #####Step 1: 
 move golang.dict to your dict path
 
